@@ -12,7 +12,7 @@
 ![](https://c7.pm/img/freeie.gif)
 ![](https://c7.pm/img/Netscapeani.gif)
 ![](https://c7.pm/img/ieani.gif)
-![](https://c7.pm/img/donkeymuel.gif)
+![](https://c7.pm/img/donkeymule.gif)
 ![](https://anlucas.neocities.org/1blades.gif)
 ![](https://anlucas.neocities.org/1dlb.gif)
 ![](https://anlucas.neocities.org/2cows.gif)
