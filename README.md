@@ -4,7 +4,7 @@
 [![Mary's House](https://c7.pm/img/maryhouse.png)](https://coolmathgames.tech)
 [![adryd](https://c7.pm/img/adryd.png)](https://adryd.com)
 [![vin.pet](https://c7.pm/img/hctfc.gif)](https://vin.pet)
-[![NotNite](https://c7.pm/img/notnite.gif)](https://notnite.com)
+[![NotNite](https://notnite.com/assets/images/buttons/navigator.gif)](https://notnite.com)
 [![projectlounge](https://c7.pm/img/projectloungenow.gif)](https://projectlounge.pw)
 [![litterbin.dev](https://c7.pm/img/litterbin.png)](https://litterbin.dev)
 [![elixi.re](https://c7.pm/img/elixire.gif)](https://elixi.re)
